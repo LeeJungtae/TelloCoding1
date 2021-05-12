@@ -1,0 +1,12 @@
+command
+takeoff
+go 20 20 0 50
+ccw 90
+back 20
+left 20
+down 20
+forward 20
+cw 90
+curve 20 20 0 60 40 0 60
+land
+end
