@@ -1,0 +1,10 @@
+command
+takeoff
+forward 20
+go 20 20 0 50
+left 20
+go 20 20 0 50
+right 20
+go 20 20 0 50
+land
+end
